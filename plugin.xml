@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugin id="cordova-plugin-rocket-chat" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
     <name>cordova-plugin-rocket-chat</name>
-    <author>Rodrigo K. Nascimento <support@rocket.chat></author>
+    <author>Rodrigo K. Nascimento (support@rocket.chat)</author>
     <description>
       Cordova Plugin to configure RocketChat.
     </description>
